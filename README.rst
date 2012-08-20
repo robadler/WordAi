@@ -10,9 +10,9 @@ Here's a few examples to get you started. The main 2 (and only 2) functions righ
 
 	# Evaluate spintax article
 
-	require 'contentbofu'
+	require 'WordAi'
 
-	bofu = ContentBofu.new
+	bofu = WordAi.new
 
 	puts bofu.madlib("{I|You|We} Write {Content|Words|Sentences}")
 
@@ -22,9 +22,9 @@ For WordAI:
 
 	# Run a sentence through WordAI
 
-	require 'contentbofu'
+	require 'WordAi'
 
-	bofu = ContentBofu.new
+	bofu = WordAi.new
 
 	bofu.user = "email@address.com"
 
