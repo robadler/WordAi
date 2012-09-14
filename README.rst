@@ -6,7 +6,7 @@ The WordAi Gem is a rubygem that assists with spinning content from WordAi (http
 
 **Example uses?**
 
-Here's a few examples to get you started. The main 2 (and only 2) functions right now are TBS (TheBestSpinner) API and my madlib function (superspin/nested spin).
+Here's a few examples to get you started. The main 2 (and only 2) functions right now are for the WordAi API and my madlib function (superspin/nested spin).
 
 	# Evaluate spintax article
 
